@@ -1,4 +1,4 @@
-# senior_project
+# Trimming Trends: senior_project
 
 A new Flutter project.
 
